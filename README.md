@@ -1,2 +1,2 @@
-# number.js
+# numbers.js
 Library for large number manipulation
